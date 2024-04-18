@@ -1,0 +1,24 @@
+{
+  "name": "ptk-test-js-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koltrbtw/ptk-test-js-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koltrbtw/ptk-test-js-1/issues"
+  },
+  "homepage": "https://github.com/koltrbtw/ptk-test-js-1#readme",
+  "devDependencies": {
+    "codeceptjs": "^3.6.1",
+    "puppeteer": "^22.6.5"
+  }
+}
